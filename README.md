@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Work From Home Software Engineer Roles in the US by Maestra (updated 2025-08-19)
 
-> This is a curated compilation of **210 Work From Home Software Engineer Roles in the US** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **208 Work From Home Software Engineering Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -25,17 +25,15 @@
 
 ---
 
-## 💻 Work From Home Software Engineer Roles In The Us Roles
+## 💻 Work From Home Software Engineering Jobs Roles
 
 | Company | Role | Location | Application |
 |---|---|---|---|
-| Glossgenius | Software Engineer - All Levels | San Francisco, California | [Apply](https://job-boards.greenhouse.io/glossgenius/jobs/6684042003?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Rvohealth | Platform Engineer | Remote | [Apply](https://job-boards.greenhouse.io/rvohealth/jobs/4598703005?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Awhnet | Remote Contract .NET Developer | Remote | [Apply](https://awhnet.bamboohr.com/careers/63?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Bitwarden | Senior Software Engineer (Tools) | San Francisco, California | [Apply](https://bitwarden.com/careers/6684274003/?gh_jid=6684274003&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Ca159cb6-724b-4d65-a386-ef202361ead9 | Software Engineer-SharePoint (Remote) | Surry County, North Carolina | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ca159cb6-724b-4d65-a386-ef202361ead9&jobId=552710&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Mindrift | Freelance Software Developer (TypeScript) - Quality Assurance (AI Trainer) | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/FB7027A4C6?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Mindrift | Freelance Software Developer (TypeScript) - Quality Assurance (AI Trainer) | Remote | [Apply](https://apply.workable.com/j/FDFCF7F1FB?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Mindrift | Freelance Software Developer (TypeScript) - Quality Assurance (AI Trainer) | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/FB7027A4C6?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Mindrift | Freelance Software Developer (TypeScript) - Quality Assurance (AI Trainer) | Remote | [Apply](https://apply.workable.com/j/75A4A9B99C?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Mindrift | Freelance Software Developer (TypeScript) - Quality Assurance (AI Trainer) | Butler County, Kansas | [Apply](https://apply.workable.com/j/3004C02241?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | WordPress Developer (Remote - Florida) | Remote | [Apply](https://apply.workable.com/j/CF1642C64F?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -47,7 +45,6 @@
 | E0b5d0a0-96be-46cf-bdbf-95bff43338be | ANF - UX Engineer - MABSM | Montgomery County, Kansas | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3503365?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Datamaxis | EDW Informatica ETL Developer (3 positions) | Arlington, Virginia | [Apply](https://datamaxis.breezy.hr/p/e7d68e2b2f5f-edw-informatica-etl-developer-3-positions?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Clerk | Software Engineer, Expo/Flutter | Remote | [Apply](https://jobs.ashbyhq.com/clerk/1b937d56-d5b3-4b69-b8ec-836766b1b37f?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| 11234a05-dd20-44aa-9b1f-ca7bb9f6eba3 | Software Engineer-SharePoint (Remote) | Jonesville, North Carolina | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11234a05-dd20-44aa-9b1f-ca7bb9f6eba3&jobId=552710&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Lazer | Design Engineer - Consultant | Unorganized Division No. 18, Saskatchewan | [Apply](https://jobs.ashbyhq.com/lazer/80639b35-a9b1-4307-88d2-3868a73b6413?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior Software Engineer I - React Native + Mobile Release Engineer | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2285784&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Zizo | Product Architect | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/5FC7517BB8?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -78,8 +75,8 @@
 | Virtru | Senior Developer Experience Engineer | Washington, District of Columbia | [Apply](https://job-boards.greenhouse.io/virtru/jobs/4598295005?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Virtru | Senior Proxy Gateway Engineer | Washington, District of Columbia | [Apply](https://job-boards.greenhouse.io/virtru/jobs/4598291005?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Lbrands | Site Reliability Engineer | Montgomery County, Kansas | [Apply](https://lbrands.taleo.net/careersection/1_bbw_prof/jobdetail.ftl?job=04SN7&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Servicenow | Staff Software Engineer - Security Center | San Diego, California | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000076658081?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Servicenow | Senior Software Engineer - Security Center | San Diego, California | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000076656333?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Servicenow | Staff Software Engineer - Security Center | San Diego, California | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000076658081?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Claritevcareers | Principal Cloud Application Developer Java/React (remote) | Bedford, Massachusetts | [Apply](https://myjobs.adp.com/claritevcareers/cx/job-details?reqId=5001104216606&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior Software Engineer | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2296911&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior Software Engineer I - Java FSD | Montgomery County, Kansas | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2280091&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -92,13 +89,13 @@
 | Galileo | Developer Educator & Docs | Foster City, California | [Apply](https://ats.rippling.com/galileo/jobs/e250f812-c09d-401a-bd5e-1c78a607e67c?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 5fca8ec0-350d-42b2-92ed-64c1ca82c0de | Software Developer I | Grafton, Vermont | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3500418?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Revelare Networks | 5G/Mobile Core Research Engineer | Towson, Maryland | [Apply](https://apply.workable.com/j/024E0296E1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Bessemer | Senior Software Engineer | Remote | [Apply](https://myjobs.adp.com/bessemer/cx/job-details?reqId=5001098335206&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Rstudio | Senior Engineer, testing infrastructure | Montgomery County, Kansas | [Apply](https://posit.co/job-detail/?gh_jid=6678790003&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Bessemer | Senior Software Engineer | Remote | [Apply](https://myjobs.adp.com/bessemer/cx/job-details?reqId=5001098335206&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Application Engineer (Remote - US) | Butler County, Kansas | [Apply](https://apply.workable.com/j/A51F7A84CD?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Software Engineer (Remote - US) | Remote | [Apply](https://apply.workable.com/j/B9DDED2B32?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 254765ba-54c2-40a1-9a0f-8d338c4e4b28 | Lead Systems Efficiency Engineer | Remote | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=254765ba-54c2-40a1-9a0f-8d338c4e4b28&jobId=595209&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Openai | Software Engineer, Trusted Computing and Cryptography | Remote | [Apply](https://jobs.ashbyhq.com/openai/c6c4c2fb-cb2c-45d4-9f7c-e3356cd534d7?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Gmh | Data Engineer | Remote | [Apply](https://gmh.taleo.net/careersection/gmh_ext/jobdetail.ftl?job=25002018&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Openai | Software Engineer, Trusted Computing and Cryptography | Remote | [Apply](https://jobs.ashbyhq.com/openai/c6c4c2fb-cb2c-45d4-9f7c-e3356cd534d7?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Westinghousep | Senior Reactor Core Thermal Hydraulic Design Engineer (Cranberry Township, PA, US, 16066) | Marshall Township, Pennsylvania | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Senior-Reactor-Core-Thermal-Hydraulic-Design-Engineer-PA-16066/1020930200/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Teconnect | Interoperability and Regression Testing Manager II (REMOTE) (Middletown, PA, US, 17057) | Remote | [Apply](https://careers.te.com/job/Middletown-Interoperability-and-Regression-Testing-Manager-II-%28REMOTE%29-PA-17057/1309803100/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Teconnect | STAFF R&D/PRODUCT DVL ENGINEER SIGNAL INTREGRITY (REMOTE) (Middletown, PA, US, 17057) | Milltown, New Jersey | [Apply](https://careers.te.com/job/Middletown-STAFF-R&DPRODUCT-DVL-ENGINEER-SIGNAL-INTREGRITY-%28REMOTE%29-PA-17057/1306173600/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -125,8 +122,6 @@
 | Omron247cs | Senior Robotics Application Engineer | Butler County, Kansas | [Apply](https://myjobs.adp.com/omron247cs/cx/job-details?reqId=5001125373206&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Leggettest | Electrical Systems Engineer (REMOTE, REMOTE, US) | Montgomery County, Kansas | [Apply](https://leggettplatt.valhalla.stage.jobs2web.com/job/REMOTE-Electrical-Systems-Engineer-REMO/142551950/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Humaninterest | Data Engineer | Montgomery County, Kansas | [Apply](https://job-boards.greenhouse.io/humaninterest/jobs/7141258?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Avalara | Senior Data Scientist | Durham, North Carolina | [Apply](https://careers.avalara.com/jobs/15977/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Avalara | Machine Learning Engineer V | Montgomery County, Kansas | [Apply](https://careers.avalara.com/jobs/16168/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Hims-and-hers | Staff Machine Learning Engineer | Remote | [Apply](https://jobs.ashbyhq.com/hims-and-hers/b2597c61-4fc6-4b04-ae82-004849488479?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Hims-and-hers | Sr. Staff Machine Learning Engineer | Remote | [Apply](https://jobs.ashbyhq.com/hims-and-hers/f166124f-2c84-4615-a706-f40f5131932d?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Hims-and-hers | Sr. Machine Learning Engineer | Remote | [Apply](https://jobs.ashbyhq.com/hims-and-hers/5f446316-3b6d-409f-ba55-0f1e1bd90416?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -138,7 +133,6 @@
 | Mindrift | Freelance Software Developer (Python) - Quality Assurance (AI Trainer) | City of New York, New York | [Apply](https://apply.workable.com/j/93D391DA00?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Visa | Staff Software Engineer, Tokenization | Austin, Texas | [Apply](https://jobs.smartrecruiters.com/Visa/744000076614305?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior DevOps Engineer | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2291187&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Dws | Senior Software Engineer (Golang) | Montgomery County, Kansas | [Apply](https://dws.bamboohr.com/careers/56?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Qadinc | Senior Golang engineer | Atlanta, Georgia | [Apply](https://jobs.smartrecruiters.com/QADInc/744000076623445?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Centene-centene External | Vice President, Developer Experience | Remote | [Apply](https://centene.wd1.myworkdayjobs.com/centene_external/job/Remote-MO/Vice-President--Developer-Experience_1584654?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Teconnect | STAFF ELECTRICAL SYSTEMS ENGINEER (REMOTE) (Middletown, PA, US, 17057) | Salisbury Township, Pennsylvania | [Apply](https://careers.te.com/job/Middletown-STAFF-ELECTRICAL-SYSTEMS-ENGINEER-%28REMOTE%29-PA-17057/1299924700/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -154,9 +148,11 @@
 | Com Coach | Lead Engineer - Digital Support (North Bergen, NJ, US) | West New York, New Jersey | [Apply](https://careers.tapestry.com/job/North-Bergen-Lead-Engineer-Digital-Support-NJ/1297031000/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Beam83 | Senior Software Engineer | Remote | [Apply](https://job-boards.greenhouse.io/beam83/jobs/4888734008?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Workday-workday | Software Development Engineer - AWS, Docker, Terraform, Kotlin, Scala and Python | Atlanta, Georgia | [Apply](https://workday.wd1.myworkdayjobs.com/workday/job/USA-GA-Atlanta/Software-Development-Engineer----AWS_JR-0098432-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Sugarwish | AI Product Builder & Sales Automation Developer | Remote | [Apply](https://sugarwish.bamboohr.com/careers/56?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Bokf | Software Engineer II (Tulsa, OK, US, 74101) | Remote | [Apply](https://jobs.bokf.com/job/Tulsa-Software-Engineer-II-OK-74101/1295738200/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | E0b5d0a0-96be-46cf-bdbf-95bff43338be | ANF - Application Engineer - MABSM | Montgomery County, Kansas | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3503123?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Senior Software Engineer | Montgomery County, Kansas | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/TX---Work-from-home/Senior-Software-Engineer_R0682395-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Delta40 | Flowt-AI Developer | Remote | [Apply](https://delta40.bamboohr.com/careers/104?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Junipersquare | Software Engineer II, Payments | Remote | [Apply](https://jobs.ashbyhq.com/junipersquare/8ad3c551-1c19-4324-b723-48de65fd8778?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Datamaxis | PL/Sql Developer with JAVA | Remote | [Apply](https://datamaxis.breezy.hr/p/621c4647dd6e-pl-sql-developer-with-java?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Sigjobs | Analytics Developer | Madison, Alabama | [Apply](https://myjobs.adp.com/sigjobs/cx/job-details?reqId=5001110983606&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -169,18 +165,19 @@
 | Com Bokf | Senior Solutions Architect (Tulsa, OK, US, 74101) | Tulsa, Oklahoma | [Apply](https://jobs.bokf.com/job/Tulsa-Senior-Solutions-Architect-OK-74101/1295738500/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Launchpadtechnologiesinc | Senior Shopify Developer | Remote | [Apply](https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4594132006?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Lead Application Engineer - Java FSE (Spark) + Cloud + React | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2288491&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Vc3 | Web Developer - Front End I | Montgomery County, Kansas | [Apply](https://vc3.pinpointhq.com/en/postings/c40dd1a3-2732-43e6-937c-0b1be7f7534b?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Vc3 | Web Developer - Front End I | Montgomery County, Kansas | [Apply](https://vc3.pinpointhq.com/en/postings/ae7748ca-c52c-4129-8c25-5e2b09a783e9?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Vc3 | Web Developer - Front End I | Montgomery County, Kansas | [Apply](https://vc3.pinpointhq.com/en/postings/c40dd1a3-2732-43e6-937c-0b1be7f7534b?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Concierge Auctions | Sr. Software Engineer | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/A56D598BBC?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Snapsheet | Software Engineer | Washington, District of Columbia | [Apply](http://snapsheet.applytojob.com/apply/JV5PwUIexX/Software-Engineer?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Experian | Senior Software Engineer, Front End B2B CRM | Montgomery County, Kansas | [Apply](https://jobs.smartrecruiters.com/Experian/744000076600445?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Truewhitespace | Senior Front-End Developer | Washington, District of Columbia | [Apply](https://truewhitespace.freshteam.com/jobs/5x2rT00oUPdv/Senior%20Front-End%20Developer?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Virtru | Senior Software Engineer, Frontend | Washington, District of Columbia | [Apply](https://job-boards.greenhouse.io/virtru/jobs/4598299005?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Mozilla | Senior Front End Engineer, AI | Montgomery County, Kansas | [Apply](https://job-boards.greenhouse.io/mozilla/jobs/7169731?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Ecscloudjobs | Front-End Developer | Reston, Virginia | [Apply](https://myjobs.adp.com/ecscloudjobs/cx/job-details?reqId=5001120375506&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Udacity | Software Engineer - FrontEnd | Washington, District of Columbia | [Apply](https://job-boards.greenhouse.io/udacity/jobs/8123917002?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Ecscloudjobs | Front-End Developer | Reston, Virginia | [Apply](https://myjobs.adp.com/ecscloudjobs/cx/job-details?reqId=5001120375506&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Front End Engineer (React/Typescript) | Atlanta, Georgia | [Apply](https://apply.workable.com/j/B38783E32D?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Frontend Engineer (Remote - US) | Remote | [Apply](https://apply.workable.com/j/C7B175024C?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Occrp | Frontend Developer | Remote | [Apply](https://occrp.bamboohr.com/careers/47?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 82426573-824d-4e4b-8eca-912f7e2f1b32 | SOLUTIONS ARCHITECT ENGINEER | Remote | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=82426573-824d-4e4b-8eca-912f7e2f1b32&jobId=593654&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fa-ewlq-saasfaprod1.fa.ocs | Software Integration Developer - Digital Learning at UT - UTK | Remote | [Apply](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/4625?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Aegisventures | Senior / Staff AI Software Engineer | Montgomery County, Kansas | [Apply](https://job-boards.greenhouse.io/aegisventures/jobs/4593866006?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -199,6 +196,7 @@
 | Jobgether | Staff Software Engineer, Treasury (Remote - US) | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/19CDBEC486?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Software Engineer, Platform (Backend) | Remote | [Apply](https://apply.workable.com/j/722AF9A9E9?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Clickup | Staff Backend Engineer, Automations | Montgomery County, Kansas | [Apply](https://clickup.com/careers/5621862004?gh_jid=5621862004&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Covu | Staff Backend Engineer – Twilio Platform | Remote | [Apply](https://covu.bamboohr.com/careers/143?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Machinify | Staff Software Engineer, Backend | Platform Expansion (Remote) | Remote | [Apply](https://jobs.ashbyhq.com/machinify/597492db-bf70-44a8-b5c7-c15e337ad3a5?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fathom.video | Backend Engineer | Remote | [Apply](https://jobs.ashbyhq.com/fathom.video/50323c12-96b2-4e6a-b8ea-98f21ea6e960?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Gdit-external Career Site | Backend Engineer Sr Advisor | Washington, District of Columbia | [Apply](https://gdit.wd1.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Backend-Engineer-Sr-Advisor_RQ204931-2?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -208,11 +206,11 @@
 | Virtru | Backend Software Engineer | Washington, District of Columbia | [Apply](https://job-boards.greenhouse.io/virtru/jobs/4598326005?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Freedomconsulting | Cloud Developer | Arlington, Virginia | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/4831214007?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Egen | Senior Application Engineer | Montgomery County, Kansas | [Apply](https://jobs.lever.co/egen/a8041442-36cf-4e46-8055-1d46dad9b9fe?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Com Ua | Sr. Lead, Software Engineering (Remote, US) | Remote | [Apply](https://careers.underarmour.com/job/Remote-Sr_-Lead%2C-Software-Engineering/1317242700/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Eu Bertelsmann | Senior Developer, Full Stack (Open to Remote) (New York, NY, US, NY 10019) | City of New York, New York | [Apply](https://jobsearch.createyourowncareer.com/PRH_US/job/New-York-Senior-Developer%2C-Full-Stack-%28Open-to-Remote%29-NY-NY-10019/1235886301/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Erieprod | Senior Software Engineer (Performance Test) (Erie, PA, US, 16530) | Noyes Township, Pennsylvania | [Apply](https://jobs.erieinsurance.com/job/Erie-Senior-Software-Engineer-%28Performance-Test%29-PA-16530/1308122600/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Saviynt | Principal Engineer, Full‑Stack (Agentic AI) | Remote | [Apply](https://jobs.lever.co/saviynt/13c80419-3d3c-4a78-ab85-eeca3b281e24?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Teamworks-careers | Senior Software Engineer (Data Platform) | Montgomery County, Kansas | [Apply](https://ats.rippling.com/teamworks-careers/jobs/5d4eb1cb-f9bc-4101-a13c-b78dd4ba33b8?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Intactsoftware | Senior Software Developer | Remote | [Apply](https://intactsoftware.bamboohr.com/careers/113?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Backoffice | Engineer III, Software (Remote, IN) | Remote | [Apply](https://careers.syniti.com/job/Remote-Engineer-III%2C-Software/1314926100/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Hashnode | Fullstack Developer (Remote) | Remote | [Apply](https://careers.hashnode.com/jobs/UFSSZ87Zaila/Fullstack%20Developer%20(Remote)?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Sr. Software Engineer (Remote - US) | Montgomery County, Kansas | [Apply](https://apply.workable.com/j/8ABCE80C82?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
